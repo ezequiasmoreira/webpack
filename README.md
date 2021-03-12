@@ -12,3 +12,8 @@ npm install
 
 Para start o projeto navegue até a pasta webpack/server e rode o comando 
 npm start
+
+
+#Build do projeto 
+Em desenvolvimento: npm run build-dev
+Em produção: npm run build-prod
