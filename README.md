@@ -17,3 +17,6 @@ npm start
 #Build do projeto 
 Em desenvolvimento: npm run build-dev
 Em produção: npm run build-prod
+
+
+(git config remote.origin.push HEAD)
